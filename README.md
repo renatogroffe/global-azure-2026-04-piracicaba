@@ -14,9 +14,9 @@ Número de participantes: **23 pessoas**
 
 Apresentações/painéis que aconteceram durante o evento:
 
-_# Construindo uma carreira sólida em .NET: mercado, estudo e hype_
+_# Implementando Configurações Dinâmicas no Azure com Key Vault e App Configuration_
 
-Palestrante: **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
+Palestrante: **Murilo Beltrame (DEVPIRA)**
 
 Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
 
