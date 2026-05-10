@@ -20,11 +20,11 @@ Palestrante: **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
 
 Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
 
-_# MCPs + .NET 10: da implementação ao gerenciamento das integrações com IA_
+_# Aplicações containerizadas no Azure: AKS ou Container Apps, qual a melhor solução?_
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)**
 
-Tecnologias e tópicos abordados: **.NET 10, C#, MCP, Inteligência Artificial, Visual Studio Code, Linux, Microsoft Azure, Azure API Management, Microsoft Foundry, Grafana, Grafana Tempo, Grafana k6, Azure DevOps, Azure Pipelines, Docker, Docker Compose, Azure Container Apps, Redis, Azure Redis Cache, PostgreSQL, Azure Monitor, Application Insights...**
+Tecnologias e tópicos abordados: **Kubernetes, Microsoft Azure, Azure Kubernetes Service, Azure Container Apps, Azure Container Registry, Docker, Docker Hub, Grafana, Azure Managed Grafana, Prometheus, Azure Monitor, Application Insights, Azure Log Analytcs, .NET 10, C#, ASP.NET Core, Linux, Cloud Native, CNCF, DevOps...**
 
 _# Ainda usa Controllers? Construa APIs somente usando Minimal APIs no .NET!_
 
