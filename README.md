@@ -18,7 +18,7 @@ _# Implementando Configurações Dinâmicas no Azure com Key Vault e App Configu
 
 Palestrante: **Murilo Beltrame (DEVPIRA)**
 
-Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
+Tecnologias e tópicos abordados: **Azure Key Vault, Azure App Configuration, .NET, C#, ASP.NET Core, Visual Studio Code...**
 
 _# Aplicações containerizadas no Azure: AKS ou Container Apps, qual a melhor solução?_
 
@@ -26,15 +26,15 @@ Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, A
 
 Tecnologias e tópicos abordados: **Kubernetes, Microsoft Azure, Azure Kubernetes Service, Azure Container Apps, Azure Container Registry, Docker, Docker Hub, Grafana, Azure Managed Grafana, Prometheus, Azure Monitor, Application Insights, Azure Log Analytcs, .NET 10, C#, ASP.NET Core, Linux, Cloud Native, CNCF, DevOps...**
 
-_# Ainda usa Controllers? Construa APIs somente usando Minimal APIs no .NET!_
+_# Desacoplando o Legado: Como modernizar sua arquitetura com o Azure SQL Change Event Streaming_
 
-Palestrante: **Márcio Nizzola (Microsoft MVP)**
+Palestrante: **Milton Camara Gomes (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **.NET 10, C#, ASP.NET Core, OpenAPI, Visual Studio...**
 
-_# Construindo uma carreira sólida em .NET: mercado, estudo e hype_
+_# Microsoft Fabric de Ponta a Ponta - Caso Real com dados do INMET_
 
-Palestrante: **Beatriz Tavernaro (Gold Microsoft Learn Student Ambassador)**
+Palestrante: **Hugo Venturini (Microsoft MVP)**
 
 Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
 
