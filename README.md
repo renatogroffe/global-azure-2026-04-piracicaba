@@ -30,13 +30,13 @@ _# Desacoplando o Legado: Como modernizar sua arquitetura com o Azure SQL Change
 
 Palestrante: **Milton Camara Gomes (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **.NET 10, C#, ASP.NET Core, OpenAPI, Visual Studio...**
+Tecnologias e tópicos abordados: **Azure SQL, Event Streaming, SQL Server, .NET, C#, Microsoft Azure...**
 
 _# Microsoft Fabric de Ponta a Ponta - Caso Real com dados do INMET_
 
 Palestrante: **Hugo Venturini (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Visual Studio...**
+Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligência Artificial, Business Intelligence...**
 
 ---
 
