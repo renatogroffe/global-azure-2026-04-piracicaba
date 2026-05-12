@@ -46,6 +46,10 @@ Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações
 
 Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/evento/devpira-global-azure-wknd-2026)
 
+Local: **Parque Tecnológico Piracicaba “Engenheiro Agrônomo Emílio Bruno Germek” - Rua Cezira Giovanoni Moretti, 600 - Jardim Santa Rosa - Piracicaba-SP - CEP: 13414-157**
+
+Deixamos aqui nossos agradecimentos ao [**Parque Tecnológico Piracicaba**](https://www.linkedin.com/company/parquetecnologicopiracicaba/) pela oportunidade e todo o apoio para promovermos esta edição local do Global Azure em Piracicaba-SP.
+
 ---
 
 ![Banner Global Azure](img/banner-global-azure.jpeg)
