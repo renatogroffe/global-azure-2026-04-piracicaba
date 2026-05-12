@@ -56,9 +56,9 @@ Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/
 
 ![Renato palestrando](img/renato-01.jpeg)
 
-![Milton palestrando](img/renato-01.jpeg)
+![Milton palestrando](img/milton-01.jpeg)
 
-![Hugo palestrando](img/milton-01.jpeg)
+![Hugo palestrando](img/hugo-05.jpeg)
 
 ![Banner Murilo](img/banner-murilo.jpeg)
 
