@@ -20,6 +20,8 @@ Palestrante: **Murilo Beltrame (DEVPIRA)**
 
 Tecnologias e tópicos abordados: **Azure Key Vault, Azure App Configuration, .NET, C#, ASP.NET Core, Visual Studio Code...**
 
+Essa apresentação está disponível no **YouTube**: https://www.youtube.com/watch?v=PrTmvGBwdgY
+
 _# Aplicações containerizadas no Azure: AKS ou Container Apps, qual a melhor solução?_
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APISec U Ambassador, MTAC)**
@@ -49,6 +51,10 @@ Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/
 ![Banner Global Azure](img/banner-global-azure.jpeg)
 
 ![Banner Inscrições](img/banner-inscricoes.jpeg)
+
+![Murilo palestrando](img/murilo-02.jpg)
+
+![Renato palestrando](img/renato-01.jpeg)
 
 ![Banner Murilo](img/banner-murilo.jpeg)
 
