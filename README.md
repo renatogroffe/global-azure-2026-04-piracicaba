@@ -43,3 +43,17 @@ Tecnologias e tópicos abordados: **Microsoft Fabric, Data Analytics, Inteligên
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/evento/devpira-global-azure-wknd-2026)
+
+---
+
+![Banner Global Azure](img/banner-global-azure.jpeg)
+
+![Banner Inscrições](img/banner-inscricoes.jpeg)
+
+![Banner Murilo](img/banner-murilo.jpeg)
+
+![Banner Renato](img/banner-renato.jpeg)
+
+![Banner Murilo](img/banner-milton.jpeg)
+
+![Banner Murilo](img/banner-hugo.jpeg)
