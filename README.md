@@ -50,8 +50,6 @@ Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/
 
 ![Banner Global Azure](img/banner-global-azure.jpeg)
 
-![Banner Inscrições](img/banner-inscricoes.jpeg)
-
 ![Murilo palestrando](img/murilo-02.jpg)
 
 ![Renato palestrando](img/renato-01.jpeg)
@@ -60,6 +58,8 @@ Formulário utilizado para inscrições: [**Eventiza**](https://eventiza.com.br/
 
 ![Banner Renato](img/banner-renato.jpeg)
 
-![Banner Murilo](img/banner-milton.jpeg)
+![Banner Milton](img/banner-milton.jpeg)
 
-![Banner Murilo](img/banner-hugo.jpeg)
+![Banner Hugo](img/banner-hugo.jpeg)
+
+![Banner Inscrições](img/banner-inscricoes.jpeg)
